@@ -1,0 +1,35 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "（原创）风起的日子",
+			"desc": "此时 水是静的 山是空的 我在等风起舞的日子 捎来你的信息 去相遇一个春天 听过雪化的声音 经过了翠竹的轻弹 经过了青松的修饰 才在一株红梅里安...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/13987401-77803504025b3c8d.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 2,
+			"title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://upload.jianshu.io/admin_banners/web_images/4609/5c252cdb56c9924a035c052cf56753f096a1d6e8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+		}, {
+			"id": 2,
+			"imgUrl": "https://img4.mukewang.com/5ba0569c00010a4605400300-240-135.jpg"
+		}, {
+			"id": 3,
+			"imgUrl": "https://img3.mukewang.com/szimg/5c46c4a308ad3b3406000338.jpg"
+		}]
+	}
+}
